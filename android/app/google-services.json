@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "115780369884",
+    "project_id": "auth-with-email-and-pass-a549f",
+    "storage_bucket": "auth-with-email-and-pass-a549f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115780369884:android:deb692c12e10b486586319",
+        "android_client_info": {
+          "package_name": "com.example.email_and_password_auth_using_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115780369884-36qpeqgug7aj0g32g4jojenr4tsplprf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.email_and_password_auth_using_firebase",
+            "certificate_hash": "97b2be79441257e0094efd48dab1b2c47736c944"
+          }
+        },
+        {
+          "client_id": "115780369884-f4vt2mfbm9ql4dcb2v79371gllsj33d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Wu5Qou30C2UMIhnVM7hF5grpg0QgQuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115780369884-f4vt2mfbm9ql4dcb2v79371gllsj33d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
