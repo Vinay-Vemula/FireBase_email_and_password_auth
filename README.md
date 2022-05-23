@@ -1,16 +1,11 @@
 # email_and_password_auth_using_firebase
 
-A new Flutter project.
-
+Authentication of user login through email and pasword 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project consists of neuromorphic design of login and signup screens with Authentication
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project we are going to make user login using email and password,using firebase 
+and here is some useful documents for new flutter users
+-> Flutter for Android developers : https://docs.flutter.dev/get-started/flutter-for/android-devs
+-> Flutter for iOS developers     : https://docs.flutter.dev/get-started/flutter-for/ios-devs
